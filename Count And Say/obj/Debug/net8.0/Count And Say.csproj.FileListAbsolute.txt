@@ -1,0 +1,14 @@
+D:\Count And Say\bin\Debug\net8.0\Count And Say.exe
+D:\Count And Say\bin\Debug\net8.0\Count And Say.deps.json
+D:\Count And Say\bin\Debug\net8.0\Count And Say.runtimeconfig.json
+D:\Count And Say\bin\Debug\net8.0\Count And Say.dll
+D:\Count And Say\bin\Debug\net8.0\Count And Say.pdb
+D:\Count And Say\obj\Debug\net8.0\Count And Say.GeneratedMSBuildEditorConfig.editorconfig
+D:\Count And Say\obj\Debug\net8.0\Count And Say.AssemblyInfoInputs.cache
+D:\Count And Say\obj\Debug\net8.0\Count And Say.AssemblyInfo.cs
+D:\Count And Say\obj\Debug\net8.0\Count And Say.csproj.CoreCompileInputs.cache
+D:\Count And Say\obj\Debug\net8.0\Count And Say.dll
+D:\Count And Say\obj\Debug\net8.0\refint\Count And Say.dll
+D:\Count And Say\obj\Debug\net8.0\Count And Say.pdb
+D:\Count And Say\obj\Debug\net8.0\Count And Say.genruntimeconfig.cache
+D:\Count And Say\obj\Debug\net8.0\ref\Count And Say.dll
