@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Count And Say")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15fa214cf266e97df449537e0af87ab3eb1ec3d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Count And Say")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Count And Say")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,3 +23,4 @@ const findMedianSortedArrays = (array1, array2) => {
         return combined[Math.floor(l / 2)];
     }
 };
+console.log(findMedianSortedArrays([1, 2], [3, 4]));
