@@ -5,9 +5,9 @@ namespace CountAndSay
     
 
 public class Solution{
-    static void Main(){
+    /*static void Main(){
         Console.WriteLine(CountAndSay(6));
-    }
+    }*/
     public static string CountAndSay(int n) {
         // Base case: when n is 1, return "1"
         if (n == 1) return "1";

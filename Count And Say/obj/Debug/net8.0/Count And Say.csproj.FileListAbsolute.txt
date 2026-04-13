@@ -12,3 +12,18 @@ D:\Count And Say\obj\Debug\net8.0\refint\Count And Say.dll
 D:\Count And Say\obj\Debug\net8.0\Count And Say.pdb
 D:\Count And Say\obj\Debug\net8.0\Count And Say.genruntimeconfig.cache
 D:\Count And Say\obj\Debug\net8.0\ref\Count And Say.dll
+D:\Leetcode Projects\Projects\Count And Say\bin\Debug\net8.0\Count And Say.exe
+D:\Leetcode Projects\Projects\Count And Say\bin\Debug\net8.0\Count And Say.deps.json
+D:\Leetcode Projects\Projects\Count And Say\bin\Debug\net8.0\Count And Say.runtimeconfig.json
+D:\Leetcode Projects\Projects\Count And Say\bin\Debug\net8.0\Count And Say.dll
+D:\Leetcode Projects\Projects\Count And Say\bin\Debug\net8.0\Count And Say.pdb
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.AssemblyInfoInputs.cache
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.AssemblyInfo.cs
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.csproj.CoreCompileInputs.cache
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.sourcelink.json
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.dll
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\refint\Count And Say.dll
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.pdb
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\Count And Say.genruntimeconfig.cache
+D:\Leetcode Projects\Projects\Count And Say\obj\Debug\net8.0\ref\Count And Say.dll
